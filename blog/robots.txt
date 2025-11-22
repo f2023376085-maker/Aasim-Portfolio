@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://f2023376085-maker.github.io/Aasim-Portfolio/sitemap.xml
